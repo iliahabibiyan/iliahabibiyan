@@ -1,4 +1,4 @@
-# Hi, I'm Ilia 👋
+# About Me
 
 I'm a Computer Engineering student at Amirkabir University of Technology, interested in software development, problem solving, and building practical projects.
 
